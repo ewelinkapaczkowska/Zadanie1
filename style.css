@@ -1,9 +1,24 @@
 .header
 {
 	text-align: right;
-	word-spacing: 10px;
+	word-spacing: 20px;
 }
 img
 {
 	vertical-align:middle;
+}
+a
+{
+	text-decoration:none; 
+	color:black;
+
+} 
+a:hover
+{
+	text-decoration:underline; 
+	color:gray;
+}
+.main
+{
+	padding-top:100px ;
 }
